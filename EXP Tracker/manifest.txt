@@ -1,0 +1,6 @@
+; Update list for EXP Tracker. Upload this next to mod.ini and the files folder.
+version=1.0
+ce2ee298d06a6133cbd1fbe13b61b19f5e1c0e43|mod.ini
+956787f8671ca00aac23860693ba207e830e77d1|files/Data/ui/sp_addons/exp_tracker.txt
+cb99727bb0777fbc6c459dbd6e1b9f374bd74a1b|files/Data/ui/themes/rose/game/hud.html
+6fedb34cabee5e5dda0c2652adf7056e8d331d6d|files/Data/ui/themes/rose/game/options_bgfx.html
