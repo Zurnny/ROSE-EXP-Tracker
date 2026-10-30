@@ -1,7 +1,7 @@
 ; Update list for EXP Tracker. Upload this next to mod.ini and the files folder.
-version=1.11
-ecf4f48edcd08f00499990aa47a6a3a4e6ec96e4|mod.ini
+version=1.12
+86df7b1f1513f2f6c480314217bd31c0cdb8a988|mod.ini
 956787f8671ca00aac23860693ba207e830e77d1|files/Data/ui/sp_addons/exp_tracker.txt
-ac898284993cbf704e1f6050592566a66f068dbd|files/Data/ui/themes/rose/game/hud.html
+f6a3ba1a8244385efba3ad63412bae9f81982db4|files/Data/ui/themes/rose/game/hud.html
 cfe4c3a63e20ee55e3b512b3366654398eafeeed|files/Data/ui/themes/rose/game/options_bgfx.html
 62a3c46f80ba6f216e811173802298d1936215ff|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
